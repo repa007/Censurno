@@ -1,5 +1,0 @@
-﻿  ConsoleApplication.cpp
-C:\C++Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(10,18): warning C4305: инициализация: усечение из "double" в "float"
-C:\C++Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(15,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\C++Projects\ConsoleApplication\ConsoleApplication\ConsoleApplication.cpp(16,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  ConsoleApplication.vcxproj -> C:\C++Projects\ConsoleApplication\Debug\ConsoleApplication.exe
